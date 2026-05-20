@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shiju.aiagent.AiagentApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-20T19:09:42.079Z" hostname="DESKTOP-KGG32R5" time="3.911">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.shiju.aiagent.AiagentApplicationTests" time="0.999"/>
+  <system-out><![CDATA[00:39:42.306 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.shiju.aiagent.AiagentApplicationTests]: AiagentApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:39:42.400 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.shiju.aiagent.AiagentApplication for test class com.shiju.aiagent.AiagentApplicationTests
+00:39:42.490 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.shiju.aiagent.AiagentApplicationTests]: AiagentApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:39:42.492 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.shiju.aiagent.AiagentApplication for test class com.shiju.aiagent.AiagentApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.6)
+
+{"@timestamp":"2026-05-21T00:39:43.1127294+05:30","@version":"1","message":"Starting AiagentApplicationTests using Java 17.0.19 with PID 19052 (started by shiju in C:\\Users\\shiju\\Documents\\aiagent)","logger_name":"com.shiju.aiagent.AiagentApplicationTests","thread_name":"Test worker","level":"INFO","level_value":20000,"tags":["COMMONS-LOGGING"]}
+{"@timestamp":"2026-05-21T00:39:43.1317292+05:30","@version":"1","message":"No active profile set, falling back to 1 default profile: \"default\"","logger_name":"com.shiju.aiagent.AiagentApplicationTests","thread_name":"Test worker","level":"INFO","level_value":20000,"tags":["COMMONS-LOGGING"]}
+{"@timestamp":"2026-05-21T00:39:44.8290784+05:30","@version":"1","message":"Exposing 12 endpoints beneath base path '/actuator'","logger_name":"org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver","thread_name":"Test worker","level":"INFO","level_value":20000,"tags":["COMMONS-LOGGING"]}
+{"@timestamp":"2026-05-21T00:39:44.9150784+05:30","@version":"1","message":"Started AiagentApplicationTests in 2.367 seconds (process running for 3.801)","logger_name":"com.shiju.aiagent.AiagentApplicationTests","thread_name":"Test worker","level":"INFO","level_value":20000,"tags":["COMMONS-LOGGING"]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
