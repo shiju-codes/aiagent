@@ -1,6 +1,10 @@
 server:
   port: 8080
 
+logging:
+  file:
+    name: /home/ec2-user/aiagent/app.log
+
 spring:
   application:
     name: aiagent
